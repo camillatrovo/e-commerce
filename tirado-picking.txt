@@ -1,3 +1,7 @@
 tirado-picking 
 
 10-separado
+
+20 separado
+
+30 separado 
